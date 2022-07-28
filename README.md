@@ -1,5 +1,7 @@
 # decagon
 
+## Status
+[![End-to-end tests](https://github.com/chibytez/decagon/actions/workflows/github-actions.yml/badge.svg)](https://github.com/chibytez/decagon/actions/workflows/github-actions.yml)
 
 ## Selected Technology Stack:
   - The test suite was designed using Cypress
